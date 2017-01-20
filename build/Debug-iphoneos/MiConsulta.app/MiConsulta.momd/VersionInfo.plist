@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>MiConsulta</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>MiConsulta</key>
+		<dict>
+			<key>Consulta</key>
+			<data>
+			AAQYXmSeXMP6084fwC2Kz4Rvuyghf7ZJfV4MN3lRRDI=
+			</data>
+			<key>Paciente</key>
+			<data>
+			n9+LGtt7hXLVkAcxPzluOADHP+3Eqk23g4YxslKyY84=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,758 @@
+TMiConsulta
+v7
+r0
+t330028265.890416
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MiConsulta.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/Info.plist MiConsulta-Info.plist
+cCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MainWindow.xib
+cCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/RootViewController.xib
+cCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.xib
+cCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.xib
+cCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.xib
+cCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.xib
+cCopyPNGFile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/icon.png icon.png
+cProcessPCH /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch.gch MiConsulta_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch.gch MiConsulta_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta.momd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta.xcdatamodeld
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/main.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsultaAppDelegate.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/RootViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/PacienteViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaListViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaRViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/main.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta normal armv6
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsultaAppDelegate.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/RootViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/PacienteViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaListViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaRViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta normal armv7
+cCreateUniversalBinary /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta normal "armv6 armv7"
+cGenerateDSYMFile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app.dSYM /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta
+cProcessProductPackaging "/Users/melissarojas/Library/MobileDevice/Provisioning Profiles/B5C769DA-27FD-42F9-9932-EBBAE88D75ED.mobileprovision" /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/embedded.mobileprovision
+cTouch /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent
+cCodeSign /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC10FA70000000000300DE0
+t1287720871
+s3149280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.h
+c000000004DFB7BF70000000000000270
+t1308326903
+s624
+i<UIKit/UIKit.h>
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m
+c000000004DFB94110000000000001765
+t1308333073
+s5989
+i"ConsultaListViewController.h"
+i"RootViewController.h"
+i"ConsultaViewController.h"
+i"ConsultaRViewController.h"
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.xib
+c000000004DFB7B500000000000001C99
+t1308326736
+s7321
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.h
+c000000004DFB92B00000000000000715
+t1308332720
+s1813
+i<UIKit/UIKit.h>
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m
+c000000004DFB9AF600000000000010A7
+t1308334838
+s4263
+i"ConsultaRViewController.h"
+i"RootViewController.h"
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.xib
+c000000004DFB9B30000000000000EA8D
+t1308334896
+s60045
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.h
+c000000004DFB8FEF000000000000077D
+t1308332015
+s1917
+i<UIKit/UIKit.h>
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m
+c000000004DFB9BF10000000000001DB2
+t1308335089
+s7602
+i"ConsultaViewController.h"
+i"RootViewController.h"
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.xib
+c000000004DFB9BFE0000000000010F31
+t1308335102
+s69425
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.h
+c000000004DFB5FFA00000000000003E4
+t1308319738
+s996
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m
+c000000004DFB9D5C0000000000001FCD
+t1308335452
+s8141
+i"MiConsultaAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.h
+c000000004DFB789F000000000000064C
+t1308326047
+s1612
+i<UIKit/UIKit.h>
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m
+c000000004DFB7FDC0000000000001A5B
+t1308327900
+s6747
+i"PacienteViewController.h"
+i"RootViewController.h"
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.xib
+c000000004DFB798800000000000105E1
+t1308326280
+s67041
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.h
+c000000004DFB97A2000000000000052D
+t1308333986
+s1325
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m
+c000000004DFB976E0000000000003CE5
+t1308333934
+s15589
+i"RootViewController.h"
+i"PacienteViewController.h"
+i"ConsultaListViewController.h"
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MainWindow.xib
+c000000004DFB5FFA0000000000006000
+t1308319738
+s24576
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta.xcdatamodeld
+c000000004DFB647B0000000000000088
+t1308320891
+s136
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta_Prefix.pch
+c000000004DFB5FFA0000000000000169
+t1308319738
+s361
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/RootViewController.xib
+c000000004DFB5FFA0000000000004455
+t1308319738
+s17493
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app
+t1308335465
+s578
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app.dSYM
+t1308335462
+s102
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ConsultaListViewController.nib
+t1308335458
+s979
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ConsultaRViewController.nib
+t1308335459
+s4670
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ConsultaViewController.nib
+t1308335458
+s5352
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/Info.plist
+t1308335457
+s793
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MainWindow.nib
+t1308335457
+s1512
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta
+t1308335462
+s193300
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta.momd
+t1308335461
+s136
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/PacienteViewController.nib
+t1308335458
+s5168
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/PkgInfo
+t1308335457
+s8
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ResourceRules.plist
+t1308335457
+s485
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/RootViewController.nib
+t1308335457
+s979
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/embedded.mobileprovision
+t1308335462
+s7289
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/icon.png
+t1308335459
+s22689
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent
+t1308335462
+s426
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaListViewController.o
+t1308335461
+s59816
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaRViewController.o
+t1308335461
+s78544
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaViewController.o
+t1308335461
+s88260
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta
+t1308335462
+s95188
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta.LinkFileList
+c000000004DFB9D610000000000000471
+t1308335457
+s1137
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsultaAppDelegate.o
+t1308335461
+s67500
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/PacienteViewController.o
+t1308335461
+s79820
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/RootViewController.o
+t1308335461
+s75808
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/main.o
+t1308335461
+s6496
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaListViewController.o
+t1308335462
+s59540
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaRViewController.o
+t1308335462
+s77984
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaViewController.o
+t1308335462
+s87208
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta
+t1308335462
+s90900
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta.LinkFileList
+c000000004DFB9D610000000000000471
+t1308335457
+s1137
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsultaAppDelegate.o
+t1308335461
+s67284
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/PacienteViewController.o
+t1308335462
+s78812
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/RootViewController.o
+t1308335462
+s74956
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/main.o
+t1308335461
+s6480
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/icon.png
+c000000004DF76F800000000000005ADE
+t1308061568
+s23262
+
+N/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m
+c000000004DFB5FFA0000000000000160
+t1308319738
+s352
+i<UIKit/UIKit.h>
+
+N/Users/melissarojas/Library/MobileDevice/Provisioning Profiles/B5C769DA-27FD-42F9-9932-EBBAE88D75ED.mobileprovision
+c000000004DF76ECB0000000000001C79
+t1308061387
+s7289
+
+N/var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch.gch
+t1308335460
+s10545556
+
+N/var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch.gch
+t1308335460
+s11004308
+
+NMiConsulta-Info.plist
+c000000004DFB5FFA000000000000038D
+t1308319738
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330028257#330028257#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCodeSign /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app
+s330028262.832321
+e330028265.890286
+r1
+xCodeSign
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app
+lSLF07#2@44"CodeSign build/Debug-iphoneos/MiConsulta.app330028262#330028265#0(0"0(0#0#99"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app8612662912#764"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Melissa Rojas (CBFSPJFUR2)" --resource-rules=/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ResourceRules.plist --entitlements /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaListViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028261.417711
+e330028261.536682
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaListViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m330028261#330028261#0(0"0(0#0#100"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m8609722496#2111"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaListViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaRViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028261.570368
+e330028261.731455
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaRViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m330028261#330028261#0(0"0(0#0#97"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m8610007680#2105"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaRViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028261.536795
+e330028261.756960
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m330028261#330028261#0(0"0(0#0#96"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m8601289472#2103"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/ConsultaViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsultaAppDelegate.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028261.228616
+e330028261.410407
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsultaAppDelegate.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m330028261#330028261#0(0"0(0#0#95"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m8608189280#2101"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsultaAppDelegate.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/PacienteViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028261.410516
+e330028261.570250
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/PacienteViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m330028261#330028261#0(0"0(0#0#96"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m8612877952#2103"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/PacienteViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/RootViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028261.268883
+e330028261.417607
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/RootViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m330028261#330028261#0(0"0(0#0#92"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m8604387168#2095"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/main.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028261.005789
+e330028261.268783
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/main.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m330028261#330028261#0(0"0(0#0#70"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m8612196736#2059"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaListViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028262.202603
+e330028262.337032
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaListViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m330028262#330028262#0(0"0(0#0#100"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m8606427744#2111"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaListViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaRViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028262.337135
+e330028262.473936
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaRViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m330028262#330028262#0(0"0(0#0#97"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m8610209824#2105"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaRViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028262.283315
+e330028262.485906
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m330028262#330028262#0(0"0(0#0#96"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m8600930368#2103"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/ConsultaViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsultaAppDelegate.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028261.786250
+e330028261.891371
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsultaAppDelegate.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m330028261#330028261#0(0"0(0#0#95"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m8610614624#2101"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/MiConsultaAppDelegate.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsultaAppDelegate.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/PacienteViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028262.056819
+e330028262.202497
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/PacienteViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m330028262#330028262#0(0"0(0#0#96"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m8612094464#2103"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/PacienteViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/RootViewController.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028261.891475
+e330028262.056720
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/RootViewController.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m330028261#330028262#0(0"0(0#0#92"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m8606410528#2095"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/RootViewController.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/main.o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028261.731564
+e330028261.786143
+r1
+xCompileC
+xbuild/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/main.o
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m330028261#330028261#0(0"0(0#0#70"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m8617148960#2059"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -include /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/main.m -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.xib
+s330028257.683635
+e330028258.165508
+r1
+xCompileXIB
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.xib
+lSLF07#2@49"CompileXIB Classes/ConsultaListViewController.xib330028257#330028258#0(0"0(0#0#102"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.xib8613255104#660"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ConsultaListViewController.nib /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaListViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.xib
+s330028258.484453
+e330028259.252471
+r1
+xCompileXIB
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.xib
+lSLF07#2@46"CompileXIB Classes/ConsultaRViewController.xib330028258#330028259#0(0"0(0#0#99"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.xib8620298720#654"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ConsultaRViewController.nib /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaRViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.xib
+s330028258.165601
+e330028258.863874
+r1
+xCompileXIB
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.xib
+lSLF07#2@45"CompileXIB Classes/ConsultaViewController.xib330028258#330028258#0(0"0(0#0#98"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.xib8610757600#652"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ConsultaViewController.nib /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/ConsultaViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.xib
+s330028257.659486
+e330028258.484361
+r1
+xCompileXIB
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.xib
+lSLF07#2@45"CompileXIB Classes/PacienteViewController.xib330028257#330028258#0(0"0(0#0#98"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.xib8617043104#652"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/PacienteViewController.nib /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/Classes/PacienteViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MainWindow.xib
+s330028257.228697
+e330028257.683542
+r1
+xCompileXIB
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330028257#330028257#0(0"0(0#0#78"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MainWindow.xib8609502784#620"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MainWindow.nib /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/RootViewController.xib
+s330028257.229630
+e330028257.659391
+r1
+xCompileXIB
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib330028257#330028257#0(0"0(0#0#86"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/RootViewController.xib8612177760#636"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/RootViewController.nib /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/RootViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/icon.png icon.png
+s330028258.864149
+e330028259.676746
+r1
+xCopyPNGFile
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/icon.png
+xicon.png
+lSLF07#2@65"CopyPNGFile build/Debug-iphoneos/MiConsulta.app/icon.png icon.png330028258#330028259#0(0"0(0#0#72"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/icon.png8618948128#634"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/icon.png /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/icon.png0#
+
+CCpResource build/Debug-iphoneos/MiConsulta.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s330028257.105869
+e330028257.228573
+r1
+xCpResource
+xbuild/Debug-iphoneos/MiConsulta.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist330028257#330028257#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist5423551314508738560#547"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app0#
+
+CCreateUniversalBinary /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta normal "armv6 armv7"
+s330028262.669952
+e330028262.721598
+r1
+xCreateUniversalBinary
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary build/Debug-iphoneos/MiConsulta.app/MiConsulta normal "armv6 armv7"330028262#330028262#0(0"0(0#0#75"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/armv6 armv78610504032#642"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta -output /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta0#
+
+CDataModelVersionCompile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta.momd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta.xcdatamodeld
+s330028261.004830
+e330028261.228483
+r1
+xDataModelVersionCompile
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta.momd
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta.xcdatamodeld
+lSLF07#2@99"DataModelVersionCompile build/Debug-iphoneos/MiConsulta.app/MiConsulta.momd MiConsulta.xcdatamodeld330028261#330028261#0(0"0(0#0#87"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta.xcdatamodeld8612549312#427"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta.xcdatamodeld /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta.momd0#
+
+CGenerateDSYMFile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app.dSYM /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta
+s330028262.721713
+e330028262.788811
+r1
+xGenerateDSYMFile
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app.dSYM
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/MiConsulta.app.dSYM build/Debug-iphoneos/MiConsulta.app/MiConsulta330028262#330028262#0(0"0(0#0#110"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta8608236544#446"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/MiConsulta -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app.dSYM0#
+
+CLd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta normal armv6
+s330028261.757056
+e330028262.283210
+r1
+xLd
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta
+xnormal
+xarmv6
+lSLF07#2@155"Link /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta330028261#330028262#0(0"0(0#0#0"8612101728#1022"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -filelist /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv6/MiConsulta0#
+
+CLd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta normal armv7
+s330028262.485998
+e330028262.669851
+r1
+xLd
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta
+xnormal
+xarmv7
+lSLF07#2@155"Link /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta330028262#330028262#0(0"0(0#0#0"8601008160#1022"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -filelist /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/Objects-normal/armv7/MiConsulta0#
+
+CProcessInfoPlistFile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/Info.plist MiConsulta-Info.plist
+s330028257.108324
+e330028257.151738
+r1
+xProcessInfoPlistFile
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/Info.plist
+xMiConsulta-Info.plist
+lSLF07#2@29"Process MiConsulta-Info.plist330028257#330028257#0(0"0(0#0#85"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta-Info.plist8602196288#674"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MiConsulta-Info.plist -genpkginfo /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/ResourceRules.plist -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/Info.plist0#
+
+CProcessPCH /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch.gch MiConsulta_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330028259.676892
+e330028261.004718
+r1
+xProcessPCH
+x/var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch.gch
+xMiConsulta_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MiConsulta_Prefix.pch330028259#330028261#0(0"0(0#0#85"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta_Prefix.pch8617589024#1929"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv6 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta_Prefix.pch -o /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-ashbcriwawkhjecvqemlfpcbvgom/MiConsulta_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch.gch MiConsulta_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330028259.677875
+e330028260.855582
+r1
+xProcessPCH
+x/var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch.gch
+xMiConsulta_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MiConsulta_Prefix.pch330028259#330028260#0(0"0(0#0#85"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta_Prefix.pch8612926464#1929"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-generated-files.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-own-target-headers.hmap -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-all-target-headers.hmap -iquote /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta-project-headers.hmap -F/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/include -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources/armv7 -I/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/DerivedSources -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/MiConsulta_Prefix.pch -o /var/folders/GQ/GQ0xgaYgFDmluUZDGTZxsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiConsulta_Prefix-bavkgcnrpabwoohefmtkusyxjnxe/MiConsulta_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/melissarojas/Library/MobileDevice/Provisioning Profiles/B5C769DA-27FD-42F9-9932-EBBAE88D75ED.mobileprovision" /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/embedded.mobileprovision
+s330028262.788920
+e330028262.816607
+r1
+xProcessProductPackaging
+x/Users/melissarojas/Library/MobileDevice/Provisioning Profiles/B5C769DA-27FD-42F9-9932-EBBAE88D75ED.mobileprovision
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/melissarojas/Library/MobileDevice/Provisioning Profiles/B5C769DA-27FD-42F9-9932-EBBAE88D75ED.mobileprovision" build/Debug-iphoneos/MiConsulta.app/embedded.mobileprovision330028262#330028262#0(0"0(0#0#124"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/embedded.mobileprovision8605873280#483"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/melissarojas/Library/MobileDevice/Provisioning Profiles/B5C769DA-27FD-42F9-9932-EBBAE88D75ED.mobileprovision" -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent
+s330028262.820241
+e330028262.832228
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent
+lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent330028262#330028262#0(0"0(0#0#135"/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent8616966784#491"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/MiConsulta.build/Debug-iphoneos/MiConsulta.build/MiConsulta.xcent0#
+
+CTouch /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app
+s330028262.816678
+e330028262.820152
+r1
+xTouch
+x/Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app
+lSLF07#2@105"Touch /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app330028262#330028262#0(0"0(0#0#0"8618760800#317"    cd /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/melissarojas/Documents/TESIS/PRACTICAS/iPhone/MiConsulta/build/Debug-iphoneos/MiConsulta.app0#
+
